@@ -12,4 +12,4 @@ Intern for Friends of Discovery Park
 
 ## University of Washington Seattle
 
-** Student ** September 2016 - June 2020
+**Student** September 2016 - June 2020
