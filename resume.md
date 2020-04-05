@@ -13,9 +13,9 @@ Earth provides enough to satisfy every man's needs, but not every man's greed.
 </blockquote>
 
 ## Work Experience
-- Instructor at Coding with Kids (follow the link to see the work they do) https://www.codingwithkids.com
+- <a href = " https://www.codingwithkids.com">Instructor at Coding with Kids</a>
 - Our Climate Fellow
-- Intern for Friends of Discovery Park (follow the link to see what they are all about) https://www.fodp.org
+- <a href = "https://www.fodp.org"> Intern for Friends of Discovery Park </a>
 
 ## University of Washington Seattle
 
