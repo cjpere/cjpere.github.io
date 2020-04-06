@@ -1,4 +1,4 @@
-#Claire Perez
+# Claire Perez
 <img src = "https://media-exp1.licdn.com/dms/image/C5603AQHrW3u8RJ74PQ/profile-displayphoto-shrink_200_200/0?e=1591228800&v=beta&t=FID4oHq9yP7qG_S1Pep56LTn4adz-WhMHofIJqClSms">
 
 cjperez@uw.edu
